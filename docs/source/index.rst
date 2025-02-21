@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+CEO Trần Quốc Hùng – Nhà lãnh đạo tài ba của Bong88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Trần Quốc Hùng <https://bong88.wiki/tran-quoc-hung/>`_ CEO của Bong88, là một nhân vật có tầm ảnh hưởng lớn trong lĩnh vực chơi game trực tuyến. Dưới sự lãnh đạo của ông, Bong88 không ngừng đổi mới, nâng cấp hệ thống và chú trọng tính minh bạch, bảo mật nhằm mang đến trải nghiệm tốt nhất cho người chơi. Với tư duy nhạy bén và chiến lược phát triển bền vững, ông đã đưa Bong88 trở thành sân chơi uy tín hàng đầu, khẳng định vị thế trên thị trường quốc tế.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 76 Bình Giã, Phường 13, Tân Bình, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0866955213. 
 
-Contents
---------
+Email: ceotranquochung@bong88.wiki. 
 
-.. toctree::
+Website: https://bong88.wiki/tran-quoc-hung/ 
 
-   usage
-   api
+#tranquochung #ceotranquochung #ceotranquochung_bong88
